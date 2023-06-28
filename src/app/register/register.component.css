@@ -1,0 +1,31 @@
+.container-login100 {
+  width: 100%;
+  min-height: 94.5vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+
+}
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(50,61,74,1) 61%, rgba(0,212,255,1) 100%);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+}
+.bg-color {
+      background-color: rgb(50, 61, 74);
+}
+
+.resumenCentral{
+    font-family: 'Caprasimo', cursive;
+}
+.btn:hover {
+    background-color: orangered;
+}
